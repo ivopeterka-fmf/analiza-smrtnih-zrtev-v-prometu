@@ -4,11 +4,11 @@ Naredil bom analizo smrtnih žrtev v prometu v določenih državah po svetu.
 
 Pri projektu uporabljamo program _Mathematica_.
 
-### Nacrt projekta
+### Načrt projekta
 
 1. Prodobivanje podatkov. Uporabil bom Wolfram data repository.
-2. Analiza stevila moških in ženskih žrtev v cestnem prometu. Narisal bom nekaj grafov smrthin žrtev, predstavil bom tudi prvih nekaj držav z najvec smrtnimi žrtvami v prometu.
-3. Analiza smrtnih žrtev glede na prevozno sredstvo. Pregledal bom podatke od različnih držav, ter primerjal podake po prevoznih sredstvih.
+2. Analiza smrtnih žrtev v Sloveniji v letu 2010 in 2013 in primerjava glede na prevozno sredstvo.
+3. Geografski prikaz smrtnih žrtev glede na prevozno sredstvo po Svetu.
 
 Pripravil: *Ivo Peterka* 
 
