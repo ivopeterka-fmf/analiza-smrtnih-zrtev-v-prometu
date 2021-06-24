@@ -13,3 +13,4 @@ Pri projektu uporabljamo program _Mathematica_.
 
 Pripravil: *Ivo Peterka* 
 
+### Video posnetek predstavitve
